@@ -1,0 +1,28 @@
+body{
+    background-color: darkorange;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size:30px ;
+    
+    
+}
+	
+
+
+#player1, #player2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+.login_1 , .login_2
+	{
+		background: rgb(31, 179, 220);
+		padding: 10px;
+		padding-right: 50px;
+		padding-bottom: 20px;
+		float: none;
+		border-radius: 15px;
+	}
+	
+
+
